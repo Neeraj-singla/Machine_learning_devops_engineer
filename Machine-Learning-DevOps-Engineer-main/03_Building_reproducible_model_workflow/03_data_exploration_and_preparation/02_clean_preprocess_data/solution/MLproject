@@ -1,0 +1,24 @@
+name: clean_preprocess_data
+conda_env: conda.yml
+
+entry_points:
+    main:
+        parameters:
+            input_artifact:
+                description: The input data artifact
+                type: str
+            artifact_name:
+                description: The name of the output artifact
+                type: str
+            artifact_type:
+                description: The type of the output artifact
+                type: str
+            artifact_description:
+                description: The description of the output artifact
+                type: str
+        command: >-
+            python run.py --input_artifact {input_artifact} \
+                           --artifact_name {artifact_name} \
+                           --artifact_type {artifact_type} \
+                           --artifact_description {artifact_description}
+

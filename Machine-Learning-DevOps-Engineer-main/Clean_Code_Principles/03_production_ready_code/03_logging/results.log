@@ -1,0 +1,13 @@
+07/28/2024 08:10:47 PM:ERROR:a and b must be of type int. Got no with type <class 'str'> and way with type <class 'str'> instead.
+07/28/2024 08:11:48 PM:ERROR:a and b must be of type int. Got no with type <class 'str'> and way with type <class 'str'> instead.
+07/28/2024 08:11:48 PM:ERROR:b must be of type int. Got way with type <class 'str'> instead.
+07/28/2024 08:11:48 PM:ERROR:a must be of type int. Got no with type <class 'str'> instead.
+07/28/2024 08:11:48 PM:INFO:Sum of 4 and 5 is 9
+07/28/2024 08:51:52 PM:ERROR:ERROR. Trying to sum the values no and way: 
+07/28/2024 08:51:52 PM:ERROR:ERROR. Trying to sum the values 1 and way: 
+07/28/2024 08:51:52 PM:ERROR:ERROR. Trying to sum the values no and 1: 
+07/28/2024 08:51:52 PM:INFO:Sum of 4 and 5 is 9
+07/28/2024 08:55:51 PM:ERROR:Trying to sum the values no and way: First value must be an integer or float
+07/28/2024 08:55:51 PM:ERROR:Trying to sum the values 1 and way: Second value must be an integer or float
+07/28/2024 08:55:51 PM:ERROR:Trying to sum the values no and 1: First value must be an integer or float
+07/28/2024 08:55:51 PM:INFO:Sum of 4 and 5 is 9

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/jahaz/OneDrive/Escritorio/Test/Machine-Learning-DevOps-Engineer/03_Building_reproducible_model_workflow/04_data_validation/03_parameters_in_pytest/solution/mlruns/0/93ad3b210dcd420e8aa849d3266d32fc/artifacts
+end_time: 1723798044375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93ad3b210dcd420e8aa849d3266d32fc
+run_name: placid-rat-360
+run_uuid: 93ad3b210dcd420e8aa849d3266d32fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723798030901
+status: 4
+tags: []
+user_id: root

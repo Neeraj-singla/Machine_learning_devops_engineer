@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/jahaz/OneDrive/Escritorio/Test/Machine-Learning-DevOps-Engineer/03_Building_reproducible_model_workflow/03_data_exploration_and_preparation/03_data_segregation/solution/mlruns/0/6f255966fc954fa598b870fa9e86182f/artifacts
+end_time: 1723713448221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f255966fc954fa598b870fa9e86182f
+run_name: bold-eel-586
+run_uuid: 6f255966fc954fa598b870fa9e86182f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723713401454
+status: 3
+tags: []
+user_id: root
